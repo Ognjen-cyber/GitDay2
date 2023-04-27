@@ -8,4 +8,7 @@ public class HomePage {
 
     // add a logo
      //sssda
+
+    //finished home page
+
 }
